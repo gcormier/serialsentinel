@@ -538,7 +538,38 @@
       "version": 4
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "/PRC+": [
+        "HS-85Ohm"
+      ],
+      "/PRC-": [
+        "HS-85Ohm"
+      ],
+      "CLK+": [
+        "HS-85Ohm"
+      ],
+      "CLK-": [
+        "HS-85Ohm"
+      ],
+      "Net-(U1-PET+)": [
+        "HS-85Ohm"
+      ],
+      "Net-(U1-PET-)": [
+        "HS-85Ohm"
+      ],
+      "PER+": [
+        "HS-85Ohm"
+      ],
+      "PER-": [
+        "HS-85Ohm"
+      ],
+      "PET+": [
+        "HS-85Ohm"
+      ],
+      "PET-": [
+        "HS-85Ohm"
+      ]
+    },
     "netclass_patterns": [
       {
         "netclass": "Power",
@@ -683,6 +714,12 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pin",
+          "name": "Sim.Pin",
           "show": false
         }
       ],
