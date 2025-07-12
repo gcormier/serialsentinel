@@ -14482,6 +14482,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C6186"
+			(at 130.81 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 130.81 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "31b144fa-88e1-43c4-a117-83dc6a509d11")
 		)
