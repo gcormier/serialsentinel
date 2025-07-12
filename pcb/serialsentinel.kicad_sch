@@ -11391,7 +11391,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "M7"
+		(property "Value" "SS54"
 			(at 203.2 140.9699 90)
 			(effects
 				(font
@@ -19978,7 +19978,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "M7"
+		(property "Value" "SS54"
 			(at 179.07 111.7599 90)
 			(effects
 				(font

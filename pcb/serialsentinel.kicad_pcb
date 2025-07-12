@@ -10122,6 +10122,32 @@
 				)
 			)
 		)
+		(property "LCSC" "C6186"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7934b903-feeb-4bd1-a0ac-037eaa8b68c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "81246daf-34d9-4ae8-9b6a-ef75a29a160e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?223*TabPin2*")
 		(path "/7132dd62-a6ea-454a-814a-eea0d1881252")
 		(sheetname "/")
@@ -15133,7 +15159,7 @@
 				)
 			)
 		)
-		(property "Value" "M7"
+		(property "Value" "SS54"
 			(at 0 2.6 90)
 			(layer "F.Fab")
 			(uuid "7fed8c6b-5eb4-4664-9fc2-bb377a47286e")
@@ -18409,7 +18435,7 @@
 				)
 			)
 		)
-		(property "Value" "M7"
+		(property "Value" "SS54"
 			(at 0 2.6 90)
 			(layer "F.Fab")
 			(uuid "c026b8a0-00e8-4030-a362-ac06089db740")
